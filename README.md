@@ -36,7 +36,7 @@ Developed by: s.poojitha
 RegisterNumber:212221240050  
 */
 ```
-
+~
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -70,7 +70,7 @@ plt.title("study hour vs scores")
 plt.plot(loss)
 plt.xlabel("iteration")
 plt.ylabel("loss")
-
+~
 ## Output:
 ![output](scores.png.jpg)
 
